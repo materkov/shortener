@@ -1,0 +1,22 @@
+.container {
+    margin: 0 auto;
+    width: 70%;
+    padding: 40px;
+    font-size: 22px;
+}
+
+.top_label {
+    margin-bottom: 5px;
+}
+
+.url_input {
+    width: 100%;
+    font-size: 22px;
+    padding: 5px;
+    margin-bottom: 20px;
+}
+
+.error_label {
+    margin-top: 20px;
+    color: #9a200e;
+}
